@@ -4,6 +4,7 @@ from datetime import date
 import urllib.request
 #############################################################
 #This is more of a spaghetti code and is very unoptimized
+#This also very specific to what I was trying to do here
 #############################################################
 
 
